@@ -33,4 +33,4 @@ build:
     - script:
         name: go test
         code: |
-          go test ./...
+          go test $(go list ./... | grep -v /vendor/)

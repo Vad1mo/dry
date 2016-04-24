@@ -12,11 +12,6 @@
 			"Rev": "3b8b3c98b207f95fe0cd6c7c311a9ac497ba7c0f"
 		},
 		{
-			"ImportPath": "github.com/golang/sys",
-			"Comment": "v0.3.3",
-			"Rev": "f64b50fbea64174967a8882830d621a18ee1548e"
-		},
-		{
 			"ImportPath": "github.com/Sirupsen/logrus",
 			"Comment": "v0.7.3",
 			"Rev": "55eb11d21d2a31a3cc93838241d04800f52e823d"
